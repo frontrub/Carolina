@@ -1,2 +1,2 @@
-# caloriesTracker
-Small project to track calories. Code in javascript.
+# Carolina by FrontRub
+Carolina was a web-based app that tracks your food calories.
